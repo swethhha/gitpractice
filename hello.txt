@@ -1,0 +1,11 @@
+Heyy im swetha
+git config --global user.name "swethha"
+git staging:
+    adding to our local git 
+    git add hello.txt
+    git commit -m "message"
+    Fix an error , "fix:message"
+    add feature , "feat:adding index.html"
+    add code , "refactor:message"
+    add document, "docs:message"
+    important
